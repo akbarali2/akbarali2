@@ -2,9 +2,9 @@
 
 **Hello**
 
-# Education
+# # # Education
 
-ssup dawg
+M.Eng in Cindustrial Engineering (COncordia Univerity)
 <!--
 **akbarali2/akbarali2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
