@@ -1,12 +1,16 @@
 ### Hi, my name is Akbarali Agharia 👋
-**.Masters in Industrial Engineering, Concordia Universiy**
-**.Bachelors in Mechaincal Engineering, Mumbai University**
+>**Masters in Industrial Engineering, Concordia Universiy**  
+>**Bachelors in Mechaincal Engineering, Mumbai University**
+
+### Skills 🛠️
+> **Languages**: Python, C, SQL
+> **Tools**: Power BI, SQL, C, Arena Simulation, SAP, MS Office
 
 
 
 
-# W.E
-GTA at acon
+
+
 
 <!--
 **akbarali2/akbarali2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
