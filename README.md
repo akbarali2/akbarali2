@@ -9,6 +9,9 @@
 ### Projects 
 
 #### Power BI
+[Bike Manufacturing Dashboard] ()
+
+
 
 #### C 
 
