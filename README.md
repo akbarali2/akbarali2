@@ -9,7 +9,7 @@
 ### Projects 
 
 #### Power BI
-[Bike Manufacturing Dashboard] ()
+[Bike Manufacturing Dashboard] (https://github.com/akbarali2/PowerBI)
 
 
 
