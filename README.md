@@ -6,6 +6,16 @@
 > **Languages**: Python, C, SQL  
 > **Tools**: Power BI, SQL, C, Arena Simulation, SAP, MS Office
 
+### Projects 
+
+#### Power BI
+
+#### C 
+
+
+
+
+
 
 
 
