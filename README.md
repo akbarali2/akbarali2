@@ -8,10 +8,12 @@
 
 ### Projects 
 
-#### Power BI
-[Bike Manufacturing Dashboard](https://github.com/akbarali2/PowerBI). An interactive dashboard for a bike manufactuirng company to track KPIs, displaying the most profitable products and customers.
-![Dashboard](https://github.com/akbarali2/PowerBI/blob/main/dahboard.jpg)
+#### [Power BI](https://github.com/akbarali2/PowerBI)
+**Bike Manufacturing Dashboard**: An interactive dashboard for a bike manufactuirng company to track KPIs, displaying the most profitable products and customers.
+![Dashboard](https://github.com/akbarali2/PowerBI/blob/main/dahboard.jpg)   
 
+**Customer Level Details**: A drill down of the previous dashboard to display data on a customer level, indicating most profitavle customer based on different paramters.
+![cx detail](https://github.com/akbarali2/PowerBI/blob/main/customer_level_info.jpg)
 
 
 
