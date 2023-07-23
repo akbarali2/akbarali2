@@ -10,7 +10,7 @@
 
 >#### [Power BI](https://github.com/akbarali2/PowerBI)
 >>**Bike Manufacturing Dashboard**: An interactive dashboard for a bike manufactuirng company to track KPIs, displaying the most profitable products and customers.
-![Dashboard](https://github.com/akbarali2/PowerBI/blob/main/dahboard.jpg)
+![Dashboard](https://github.com/akbarali2/PowerBI/blob/main/dashboard.jpg)
 
 
 
