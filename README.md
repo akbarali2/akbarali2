@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi, my name is Akbarali Agharia 👋
+**.Masters in Industrial Engineering, Concordia Universiy**
+**.Bachelors in Mechaincal Engineering, Mumbai University**
 
-**Hello**
 
-# Education
-
-M.Eng in Cindustrial Engineering (COncordia Univerity)
 
 
 # W.E
