@@ -3,7 +3,7 @@
 >**Bachelors in Mechaincal Engineering, Mumbai University**
 
 ### Skills 🛠️
-> **Languages**: Python, C, SQL
+> **Languages**: Python, C, SQL  
 > **Tools**: Power BI, SQL, C, Arena Simulation, SAP, MS Office
 
 
