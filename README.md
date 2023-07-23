@@ -14,7 +14,7 @@
 
 
 
->>**Customer Level Details**: A drill down of the previous dashboard to display data on a customer level, indicating most profitavle customer based on different paramters.
+>>**Customer Level Details**: A drill down of the previous dashboard to display data on a customer level, indicating most profitable customer based on different paramters.
 ![cx detail](https://github.com/akbarali2/PowerBI/blob/main/customer_level_info.jpg)
 
 
