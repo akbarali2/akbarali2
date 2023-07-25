@@ -1,5 +1,5 @@
 ### Hi, my name is Akbarali Agharia 👋   
-Welcome to my profile. Here is a brief description of my academic career and the projects that I've done to gain experience in the Data Visualization and Analysis field. The *COURSE* section of this page highlights the courses that I've completed to learn different skills and tools.
+Welcome to my profile. Here is a brief description of my academic career and the projects that I've done to gain experience in the Data Visualization and Analysis field. 
 ### Education  
 
 >**Masters in Industrial Engineering, Concordia Universiy**  
