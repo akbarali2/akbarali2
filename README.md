@@ -19,7 +19,8 @@
 
 
 
->#### [C](https://github.com/akbarali2/Scheduling-Heuristic-in-C) 
+>#### [C](https://github.com/akbarali2/Scheduling-Heuristic-in-C)
+>>[Heuristic to minimize weighted tardiness of scheduling 100 jobs](https://github.com/akbarali2/Scheduling-Heuristic-in-C/blob/master/Project4%20tp/Source.c)
 
 
 
