@@ -26,7 +26,7 @@ Welcome to my profile. Here is a brief description of my academic career and the
 
 >#### [C](https://github.com/akbarali2/Scheduling-Heuristic-in-C)
 >>[Heuristic to minimize weighted tardiness of scheduling 100 jobs](https://github.com/akbarali2/Scheduling-Heuristic-in-C/blob/master/Project4%20tp/Source.c)
-#### Currently working on Data Science project in Python
+#### Currently working on Data Science projects in Python
 
 
 
