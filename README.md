@@ -1,4 +1,7 @@
-### Hi, my name is Akbarali Agharia 👋
+### Hi, my name is Akbarali Agharia 👋   
+Welcome to my profile. Here is a brief description of my academic career and the projects that I've done to gain experience in the Data Visualization and Analysis field. The *COURSE* section of this page highlights the courses that I've completed to learn different skills and tools.
+### Education  
+
 >**Masters in Industrial Engineering, Concordia Universiy**  
 >**Bachelors in Mechaincal Engineering, Mumbai University**
 
@@ -21,8 +24,7 @@
 
 >#### [C](https://github.com/akbarali2/Scheduling-Heuristic-in-C)
 >>[Heuristic to minimize weighted tardiness of scheduling 100 jobs](https://github.com/akbarali2/Scheduling-Heuristic-in-C/blob/master/Project4%20tp/Source.c)
-
-
+#### Currently working on Data Science project in Python
 
 
 
